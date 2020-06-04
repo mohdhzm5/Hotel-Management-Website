@@ -39,3 +39,18 @@
 .navbar-dark {
 	background-color:#512DAB
 }
+
+.blockquote{
+padding: 1px;
+}	
+.button{
+padding:20px;
+z-index:0;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
